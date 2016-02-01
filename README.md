@@ -1,4 +1,4 @@
 # Miscellaneous
 
-	kaggle-genentech - a benchmark for this competition
-
+	gbm_vs_rf - Additional results for GBM from Manuel Fernandez Delgado
+	kaggle-genentech - advanced codes for this competition
